@@ -16,12 +16,12 @@ L'API exploitée dans ce projet me permet d'interagir avec une base de données 
 
 ### **1. Test Exploratoire/Fonctionnel**
 J'ai d'abord exécuté les différentes requêtes à l'aide de Postman pour comprendre le fonctionnement de l'API. Grâce à une documentation complète, j'ai pu explorer les méthodes GET, POST, PUT et DELETE, permettant une compréhension approfondie des opérations possibles
-![casdetest](https://github.com/user-attachments/assets/35f1ad4b-fd6b-4f1c-a52f-4c5cc5e956f4)
+![image postman](https://github.com/user-attachments/assets/e7a82a43-3bd7-48b9-8f6f-f44ea8cc7f2d)
 
 
 ### **2. Rédaction des Cas de Test et Plan de Test**
 Les succès et les échecs rencontrés lors de ma phase exploratoire m'ont permis d'identifier les cas de test à mettre en place pour couvrir toutes les méthodes de l'API. Ces cas de test garantissent une validation exhaustive de chaque fonctionnalité.
-![image postman](https://github.com/user-attachments/assets/e7a82a43-3bd7-48b9-8f6f-f44ea8cc7f2d)
+![casdetest](https://github.com/user-attachments/assets/35f1ad4b-fd6b-4f1c-a52f-4c5cc5e956f4)
 
 ### **3. Automatisation des Tests**
 Une fois les tests effectués et enregistrés dans Postman, j'ai intégré des scripts JavaScript pour valider les réponses renvoyées par le serveur. Cela assure une exécution fiable de mes tests et une qualité constante des services proposés par l'API.
