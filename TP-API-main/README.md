@@ -29,9 +29,4 @@ Une fois les tests effectués et enregistrés dans Postman, la dernière étape 
 
 ![Automatisation des Tests](img/automatisation.png)
 
-## Conclusion
-Ce projet démontre non seulement notre capacité à tester efficacement une API, mais aussi notre engagement envers la qualité et l'amélioration continue des processus. En intégrant ces compétences au sein de votre entreprise, nous pouvons garantir que vos systèmes sont non seulement fonctionnels, mais également optimisés pour répondre aux besoins des utilisateurs et aux standards de l'industrie.
 
----
-
-Prêt à transformer vos défis en opportunités? Nous sommes ici pour vous accompagner dans cette démarche.
