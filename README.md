@@ -27,6 +27,4 @@ Les succès et les échecs rencontrés lors de ma phase exploratoire m'ont permi
 Une fois les tests effectués et enregistrés dans Postman, j'ai intégré des scripts JavaScript pour valider les réponses renvoyées par le serveur. Cela assure une exécution fiable de mes tests et une qualité constante des services proposés par l'API.
 ![automatisation postman](https://github.com/user-attachments/assets/5a07e663-7bba-42e6-966c-e3aa6e43ae75)
 
-## Conclusion
-Ce projet démontre non seulement ma capacité à tester efficacement une API, mais aussi mon engagement envers la qualité et l'amélioration continue des processus. En intégrant ces compétences au sein de votre entreprise, je peux garantir que vos systèmes sont non seulement fonctionnels, mais également optimisés pour répondre aux besoins des utilisateurs et aux standards de l'industrie.
 
